@@ -1,0 +1,7 @@
+Installation: 
+
+    1 Unrar the package in an empty directory and upload everything.
+    2 Open /config.php in a text editor and change file with your database connection details. Also change the directories with your 
+server path or local path
+    3 Import the /exlcart.sql from the rar file to the database.
+    4 Just run in the browser and everything must be fine!
